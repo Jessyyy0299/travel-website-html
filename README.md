@@ -1,5 +1,11 @@
 # Travel Website (HTML/CSS/JavaScript)
 
+### ⭐ Project Highlights
+- Created a clean and responsive static website using HTML, CSS, and JavaScript  
+- Designed multi-section page layout with navigation and custom styling  
+- Demonstrated frontend fundamentals and web presentation skills  
+
+
 This repository contains a simple, clean, and fully static **travel website** built using **HTML, CSS, and JavaScript**.
 It was created as part of a web design course to practice layout, styling, navigation, and interactive components.
 
